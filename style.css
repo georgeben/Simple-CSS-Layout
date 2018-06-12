@@ -7,6 +7,10 @@ body{
     background-color: #f4f4f4;
 }
 
+.orange_highlight{
+    color:#e8491d;
+}
+
 .container{
     width: 80%;
     margin: auto;
