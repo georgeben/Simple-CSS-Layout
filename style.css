@@ -3,8 +3,8 @@ body{
     font-size: 16px;
     line-height: 1.5;
     padding: 0;
+    background-color: pink;
     margin: 0;
-    background-color: #f4f4f4;
 }
 
 .orange_highlight{
@@ -90,6 +90,7 @@ header a:hover{
 
 #newsletter h1{
     float: left;
+    color: red;
 }
 
 #newsletter form{
